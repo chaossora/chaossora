@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - PyCham
 
 
-<small>对别人的排版进行了一些参考(</small>
+<small>readme对别人的排版和内容进行了参考(</small>
 
 
 
