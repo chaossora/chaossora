@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 现在主用和主学语言是C#(Right now, C# is my main jam and what I'm currently leveling up in.);
 
-会一点python用来做数据分析和机械学习，C++也只会一点用来打acm(I dabble in a bit of Python for calling library , and I know just enough C With Class for  playing _codeforces_ .);
+会一点python用来做数据分析和机械学习，C++也只会一点(I dabble in a bit of Python for calling library , and I know just enough C With Class.);
 
 英语稀烂，所以英语介绍由哈基米————Gemini代工,大部分...(Translated by Gemini);
 
